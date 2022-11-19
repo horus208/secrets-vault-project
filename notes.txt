@@ -1,0 +1,8 @@
+tasks:
+1- make user info update
+2- validate email address
+3- forget password
+4-hateos
+5-cashing
+
+kgqekcoryrhdbztp
